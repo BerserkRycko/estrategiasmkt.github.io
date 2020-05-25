@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Estrategias de Marketing Digital</title>
+    <link>https://estrategiasdemarketingdigital.online/authors/</link>
+      <atom:link href="https://estrategiasdemarketingdigital.online/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>estrategias de marketing digital</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://estrategiasdemarketingdigital.online/images/icon_hu902536f525208da3119bcd2cde5107e5_188226_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://estrategiasdemarketingdigital.online/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

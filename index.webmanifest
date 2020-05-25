@@ -1,0 +1,18 @@
+{
+  "name": "Estrategias de Marketing Digital",
+  "short_name": "Estrategias de Marketing Digital",
+  "lang": "es-es",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu902536f525208da3119bcd2cde5107e5_188226_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu902536f525208da3119bcd2cde5107e5_188226_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
